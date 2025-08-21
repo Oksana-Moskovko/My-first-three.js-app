@@ -1,7 +1,7 @@
 {
-  "name": "goit-node-js",
+  "name": "My-first-three.js-app",
   "version": "1.0.0",
-  "description": "goit-node-js",
+  "description": "My-first-three.js-app",
   "type": "module",
   "main": "index.js",
   "scripts": {
